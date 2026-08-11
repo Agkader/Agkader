@@ -4,39 +4,90 @@ I am a Software Engineering student bridging the gap between Full Stack developm
 
 ##  About Me
 
-- 🎓 Finishing my 3rd year of Software Engineering and heading into my 4th year (Master's level) this October.
-- 🔭 **Currently working on:** Containerizing applications, building automated CI/CD pipelines (GitHub Actions), and deploying on Cloud.
-- 🌱 **Currently learning:** Preparing for the AWS Certified Solutions Architect – Associate exam and diving deeper into Platform Engineering.
-- 💡 **My philosophy:** A good feature is a tested and safely deployed feature. I value clean architecture, reproducibility, and Infrastructure as Code.
+🎓 Master's level (4th year) at SUPINFO, Computer Science
+🔭 Currently: Full Stack development (React/Node), Infrastructure automation, 
+   Cloud deployment
+💡 Philosophy: A good system is tested, documented, and scales gracefully
+🌍 Languages: English (C1), French (native)
 - 📫 **How to reach me:** [LinkedIn](www.linkedin.com/in/abdoul-ganiyou-kader-062244262)
 
 ##  Tech Stack & Tools
 
-### DevOps & Cloud
-- **Infrastructure as Code:** Terraform
-- **Containerization & CI/CD:** Docker, GitHub Actions, 
-- **Cloud Providers:** Google Cloud Platform (Cloud Run), AWS
-- **OS & Versioning:** Linux, Git, GitHub
+Core Competencies
 
-### Full Stack Development
-- **Backend:** Python, Java , Node.js
-- **Frontend:** React, HTML/CSS
-- **Databases:** PostgreSQL, SQL
+## Full Stack Development
+* Frontend: React, HTML/CSS, TypeScript (learning)
+* Backend: Node.js/Express, Python, Java (academic advanced)
+* Databases: PostgreSQL, MongoDB, MySQL/MariaDB
+* Testing: Jest, Supertest, Unit testing
+
+## Infrastructure & DevOps
+* Linux (Ubuntu, advanced administration)
+* Networking: CCNA (Switching/Routing/Wireless) validated
+* Load Balancing & HA: HAProxy, Vagrant
+* Cloud: Google Cloud Platform (Cloud Run, IAM, deployment)
+* Containerization: Docker
+* Infrastructure as Code: Terraform (learning)
+* Scripting & Automation: Bash, Python, Cron jobs
+
+## Tools & Practices
+* Version Control: Git, GitHub, Pull Requests, Code Reviews
+* CI/CD: GitHub Actions, Cloud Build
+* Methodology: Agile, Scrum, Documentation-first approach
 
 ##  Featured Projects
 
 ##  What I've been working on
 
 ### Public Projects
-- **DevSecOps Automated Pipeline (Work in Progress) :** An automated security pipeline that scans container images for vulnerabilities using open-source tools (**Trivy**). The pipeline leverages **Mistral AI** to summarize the security reports. The extraction script is scheduled via Linux cron, containerized with **Docker**, and deployed on an **AWS EC2** instance provisioned via **Terraform**.
-- **Node.js API & Cloud Deployment :** A backend application containerized with **Docker** and successfully deployed on **Google Cloud Run**.
-- **AI Decision Engine (Awalé) :** An artificial intelligence algorithm built in **Python** utilizing Min-Max and Monte Carlo concepts for advanced game decision making.
-- **Linux Architecture Lab :** Configuration, administration, and networking of a 3-machine **Linux** environment.
+
+## 1. Infrastructure Web Haute Disponibilité (Coursero)
+3-server architecture with HAProxy load balancing, MariaDB database, 
+automated correction via Bash Cron jobs, Vagrant infrastructure as code.
+
+Technologies: Linux, HAProxy, Vagrant, MariaDB, Bash
+Key Achievement: Production-grade HA patterns, real incident resolution 
+(HAProxy binding, multiplateforme compatibility)
+
+## 2. Full Stack API — Restaurant Management
+Complete REST API with authentication, database modeling, cloud deployment.
+
+Technologies: Node.js/Express, MongoDB, JWT, Swagger/OpenAPI 3.0, Docker, GCP Cloud Run
+Features: JWT authentication, strict validation, optimized queries, 
+automated documentation, unit/integration tests
+
+## 3. AI Decision Engine (Awalé)
+
+Rigorous comparison of 4 AI strategies (random, greedy, Min-Max, MCTS) 
+with automated tournament system and unit tests.
+
+Technologies: Python, algorithmic thinking, testing
+Key Achievement: Demonstrates systematic approach to complex problems, 
+documentation, test-driven development
+
+## 4. DevSecOps Scanner (Trivy + Mistral)
+Automated vulnerability scanning pipeline for Docker images.
+
+Technologies: Python, Trivy, Mistral AI API, Docker, GCP Cloud Run
+Approach: Scan container images → extract CVEs → AI analysis → report generation
+Status: Working on final integration with Mistral API
 
 ### Professional Experience
+
 *Some of my most impactful work resides in private enterprise repositories. Here is what I built during my recent internship:*
 
-- **Full Stack & Cloud Architecture (Bowling des Flandres) :** Developed internal management tools within an Agile environment. Built the frontend using reusable **React** components and designed robust backend APIs with **Node.js**. Managed complex data modeling and ensured data integrity using **PostgreSQL**. Actively contributed to CI/CD workflows by containerizing the application with **Docker** and automating deployments on **Google Cloud Platform (GCP)**.
+Full Stack & Cloud Architecture (Bowling des Flandres, 2026)
+
+Developed internal management tools for an interactive application:
+* Frontend: Reusable React components, state management
+* Backend: : Built the server architecture and a robust real-time REST API.
+• AI Integration: Interfaced the backend with Speech-to-Text models to improve user experience.
+* Database: PostgreSQL modeling, query optimization, data integrity
+* DevOps: Docker containerization, GCP Cloud Run deployment, CI/CD automation
+* Team: Agile environment, 5-person development team
+
+Key Skills Demonstrated: Full stack thinking, infrastructure awareness, 
+collaborative development
 
 ---
  *Thanks for stopping by! Feel free to check out my repositories below.*
