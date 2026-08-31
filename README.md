@@ -1,6 +1,6 @@
 # Hi there, I am Kader 👋
 
-I am a Software Engineering student bridging the gap between Full Stack development, Data Engineering, and DevOps. I focus on building scalable systems, automated data pipelines, and reliable cloud deployments.
+I am a Software Engineering student bridging the gap between Data Engineering, and DevOps. I focus on building scalable systems, automated data pipelines, and reliable cloud deployments.
 
 ## About Me
 
