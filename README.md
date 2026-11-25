@@ -1,22 +1,26 @@
-# Hi there, I am Kader 👋
+# Hi there, I'm Kader 👋
 
-I am a Master 1 Software Engineering student (DevOps & AI) at SUPINFO Lille. I am building on my solid Cloud Native and Backend foundation, actively expanding my skills to design the intelligent, scalable systems of tomorrow.
+I'm a **Master 1 Software Engineering** student at **SUPINFO Lille** (specializing in **Cloud Architecture**).
 
-### 1️⃣ Where I am now: Backend & Cloud Native DevOps
-I don't just write code; I architect, automate, deploy, and monitor production-ready infrastructure.
-* **Backend:** Python (FastAPI), Node.js, C# (.NET), SQL & NoSQL (PostgreSQL, MongoDB)
-* **Cloud & DevOps:** Kubernetes (GKE), Terraform (IaC), GitHub Actions (CI/CD with Keyless Workload Identity), Docker, Linux
-* **Observability:** Prometheus, Grafana, Helm
-* **Frontend:** React, JavaScript, TypeScript
-
-### 2️⃣ What I am learning next: AI Systems & Optimization
-I am moving beyond simple API calls to understand how AI works under the hood and how to serve it efficiently.
-* **Agentic Workflows:** Building autonomous multi-agent systems and RAG architectures.
-* **Inference Optimization:** Understanding hardware constraints, VRAM management, and local LLM deployment (vLLM, Ollama).
-
-### 3️⃣ Where I am heading: My Future Goal
-**Aspiration: Platform Engineer / AI Systems Engineer**
-My ultimate goal is to bridge the gap between software engineering, cloud infrastructure, and artificial intelligence. I want to architect the platforms that make AI models fast, reliable, cost-efficient, and highly scalable in production environments. 
+I focus on building reliable cloud infrastructure, automating operations, and applying agentic AI to real-world system diagnostics.
 
 ---
-**Languages:** French (Native), English (Fluent Canadian Technical Diploma, Kuwait)
+
+### 1️⃣ Where I am now: Cloud, Infrastructure & Automation
+I build, containerize, and automate backend services and cloud environments with a focus on reliability and least-privilege security.
+* **Cloud & IaC:** Google Cloud Platform (GCP), Terraform, Microsoft Azure (AZ-900 fundamentals)
+* **Containers & CI/CD:** Docker, Kubernetes (GKE, Minikube, RBAC), GitHub Actions
+* **Systems & Networking:** Linux, Bash, HAProxy,Networking (CCNA fundamentals)
+* **Development:** Python (FastAPI), Node.js, C# (.NET), React, SQLite
+
+### 2️⃣ What I am building: Agentic AIOps & Practical AI
+I bridge infrastructure operations with AI agents—focusing on safety, auditability, and human-in-the-loop workflows rather than blind automation.
+* **SRE Copilot (AIOps):** Multi-agent Python system (**LangGraph, MCP**) running on Kubernetes to detect pod failures, analyze logs, and propose RBAC-scoped fixes with human approval.
+* **RAG & Local AI Integration:** Document analysis pipelines (FastAPI, Docker) and on-premise Speech-to-Text integration.
+
+### 3️⃣ Where I am heading
+**Goal: Cloud / SRE / AIOps Engineer**  
+I want to design resilient cloud platforms and intelligent automation tools that make infrastructure faster to operate, easier to debug, and safer to scale.
+
+---
+**Languages:** French (Native) · English (Fluent — Technical Diploma in Computer Programming, Algonquin College Kuwait)
